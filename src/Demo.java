@@ -4,13 +4,13 @@ import java.sql.PreparedStatement;
 
 public class Demo {
     public static void main(String[] args) throws Exception {
-        //?---------------user values
+        // ?---------------user values
         // String name1 = "kamal";
         // String email1 = "kamal@gmail.com";
         // String pass1 = "kamal123";
         // String gender1 = "male";
         // String city1 = "mumbai";
-
+ 
         String name1 = "kamal";
         String email1 = "kamal@gmail.com";
         String pass1 = "kamal123";
